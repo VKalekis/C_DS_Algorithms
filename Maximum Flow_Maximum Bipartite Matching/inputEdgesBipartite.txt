@@ -1,0 +1,13 @@
+Inserts edges in SparseArray for a Bipartite graph. Each edge i-j must be on a new line.
+1-8
+2-7
+3-7
+3-9
+4-8
+5-8
+5-9
+5-10
+5-11
+6-9
+6-10
+6-11

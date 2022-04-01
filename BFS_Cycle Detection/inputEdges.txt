@@ -1,0 +1,16 @@
+Inserts edges in SparseArray. Each edge i-j must be on a new line.
+10-3
+10-7
+3-4
+7-4
+4-8
+7-5
+4-6
+8-17
+5-6
+6-17
+5-12
+12-13
+11-13
+17-11
+
